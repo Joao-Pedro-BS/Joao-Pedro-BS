@@ -1,5 +1,10 @@
-#
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jobsp29) <br>
+## Olá, pode me chamar de JP! 👋
+<ul>
+  <li>🔭 Sou estudante de Data Science na Universidade Federal da Paraíba</li>
+  <li>🌱 Estou estudando HTML e CSS</li>
+  
+</ul>
+<a href="https://instagram.com/jobsp29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> <br>
 <a href = "jotadevcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a> <br>
 <!--[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://instagram.com/jobsp29)-->
 
@@ -16,7 +21,7 @@
 
 
 # 
-![](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-BS&theme=prussian&hide_border=true)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
