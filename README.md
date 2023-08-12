@@ -1,6 +1,7 @@
 ## Olá, pode me chamar de JP! 👋
 <ul>
   <li>🔭 Sou estudante de Data Science na Universidade Federal da Paraíba</li>
+  <li>🚀 Trabalhadno em um projeto de web scraping </li>
   <li>🌱 Estou estudando Desenvolvimento Web</li>
 </ul>
 
