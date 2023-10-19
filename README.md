@@ -29,6 +29,6 @@
 </div>
 
 # 
-<!--![](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-BS&theme=prussian&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-BS&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
